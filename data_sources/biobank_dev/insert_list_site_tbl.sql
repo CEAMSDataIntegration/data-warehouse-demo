@@ -1,16 +1,3 @@
 INSERT INTO biobank_dev.list_site (center_name) VALUES
-	 ('CEAMS'),
-	 ('University of Montreal'),
-	 ('University of Toronto'),
-	 ('Stanford'),
-	 ('University of British Columbia'),
-	 ('University of Calgary'),
-	 ('Hospital for Sick Children (Toronto)'),
-	 ('Children Hospital of Eastern Ontario (Ottawa)'),
-	 ('Montpellier'),
-	 ('University of Saskatchewan'),
-	 ('Glensite Respiratory Division (McGill)'),
-	 ('CRIUCPQ (Université Laval)'),
-	 ('Institute of Mental Health Research (Université d''Ottawa)'),
-	 ('Centre de recherche CERVO (Québec)'),
-	 ('Centre de recherche sur le vieillissement (Sherbrooke)');
+	 ('Site A'),
+	 ('Site B');
