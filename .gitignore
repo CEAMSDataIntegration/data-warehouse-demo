@@ -1,0 +1,4 @@
+airflow_volume/logs
+airflow_volume/dags/__pycache__
+*.md5
+*.log

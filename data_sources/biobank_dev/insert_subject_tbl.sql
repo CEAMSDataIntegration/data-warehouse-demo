@@ -1,0 +1,11 @@
+INSERT INTO biobank_dev.subject_tbl (active,lastName,middleName,firstName,maidenName,marriedName,DOB,sex,RAMQ,date_added,lastName_strip,firstName_strip,erroneousInfoFlag,erroneousInfoCmt,clinicalFileScanned,validatedNoDuplicate,deceased,ethnicity,createdBy,ethnicityFinal,ethnicitySource,ethnicityDate,comment,phoneNumberHome,phoneNumberWork,address,email) VALUES
+	 (1,'lastname1',NULL,'firstname1',NULL,NULL,'1982-12-15',2,NULL,'2016-02-10','lastname1','firstname1',NULL,NULL,2,1,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+	 (1,'lastname2',NULL,'firstname2',NULL,NULL,'1985-04-04',1,NULL,'2016-02-10','lastname2','firstname2',NULL,NULL,NULL,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+	 (1,'lastname3',NULL,'firstname3',NULL,NULL,'1970-08-10',2,NULL,'2016-02-10','lastname3','firstname3',NULL,NULL,1,1,2,NULL,NULL,1,'Biobanque','2017-08-09 00:00:00',NULL,NULL,NULL,NULL,NULL),
+	 (1,'lastname4',NULL,'firstname4',NULL,NULL,'1955-07-12',2,NULL,'2016-02-10','lastname4','firstname4',NULL,NULL,NULL,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+	 (1,'lastname5',NULL,'firstname5',NULL,NULL,'1961-12-04',1,NULL,'2016-02-10','lastname5','firstname5',NULL,NULL,NULL,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+	 (1,'lastname6',NULL,'firstname6',NULL,NULL,'1953-09-14',2,NULL,'2016-02-10','lastname6','firstname6',NULL,NULL,NULL,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+	 (1,'lastname7',NULL,'firstname7',NULL,NULL,'1962-05-04',1,NULL,'2016-02-10','lastname7','firstname7',NULL,NULL,NULL,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+	 (1,'lastname8',NULL,'firstname8',NULL,NULL,'1975-07-27',2,NULL,'2016-02-10','lastname8','firstname8',NULL,NULL,NULL,1,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+	 (1,'lastname9',NULL,'firstname9',NULL,NULL,'1962-06-30',1,NULL,'2016-02-10','lastname9','firstname9',NULL,NULL,NULL,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+	 (1,'lastname10',NULL,'firstname10',NULL,NULL,'1973-08-16',2,NULL,'2016-02-10','lastname10','firstname10',NULL,NULL,NULL,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
