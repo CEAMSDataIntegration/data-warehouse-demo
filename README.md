@@ -1,12 +1,10 @@
-
+> IMPORTANT This is for demonstration purpose only and should not be used in a production environment.
 
 # Research Data Integration Stack
 This project represents the configuration utilized at CARSM (Center for Advanced Research in Sleep Medicine) to integrate our research data into a centralized data warehouse for improved visualization, querying, and analysis. This 
 project will help you create a complete data integration stack with a dummy biobank mysql database and visualisation.
 
 To jump right into the installation: [Getting started](#getting-started). To understand what this is all about, please keep on reading!
-
-> IMPORTANT This for demonstration purpose only and should not be used in a production environment.
 
 # The Stack
 Let's take a moment to discuss what you'll be setting up – the stack. The stack represents all the software we require to retrieve, store, and analyze data.
